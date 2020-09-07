@@ -1,11 +1,12 @@
 import React from "react"
-import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const CommunityPage = () => (
-    <Layout>
-        <SEO title="Community" />
-    </Layout>
+const Community = () => (
+  <div>
+    <SEO title="404: found" />
+    <h1>Work in Progress..</h1>
+    <p>...</p>
+  </div>
 )
 
-export default CommunityPage
+export default Community
